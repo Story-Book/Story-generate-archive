@@ -1,0 +1,19 @@
+{
+  "name": "story-generate-archive",
+  "version": "0.0.1",
+  "description": "Story archive generate.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soulteary/Story-generate-archive.git"
+  },
+  "author": "Su Yang <soulteary@gmail.com> (http://soulteary.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soulteary/Story-generate-archive/issues"
+  },
+  "homepage": "https://github.com/soulteary/Story-generate-archive#readme"
+}
